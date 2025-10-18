@@ -1,0 +1,6 @@
+@IdentityTemplate.APIs_HostAddress = http://localhost:5080
+
+GET {{IdentityTemplate.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
